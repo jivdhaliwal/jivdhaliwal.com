@@ -1,0 +1,7 @@
+[Settings]
+  ID = "Yc54628b6-fb39-42f4-bcb3-3f738ca945f9"
+
+[build]
+  base    = "site"
+  publish = "public"
+  command = "hugo"
