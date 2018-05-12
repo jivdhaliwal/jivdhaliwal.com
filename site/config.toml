@@ -1,4 +1,4 @@
-baseurl             = "http://jivdhaliwal.com"
+baseurl             = "/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
